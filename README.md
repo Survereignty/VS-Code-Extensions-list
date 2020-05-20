@@ -76,8 +76,60 @@
 
 ### JavaScript/TypeScript:
 
-> #### []():
->
+> #### [Быстрый запуск локального сервера с автообновлением страницы:](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer):
+> Live Server
 
-> #### []():
->
+> #### [Позволяет обновлять версии зависимостей прямо из package.json](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens):
+> Version Lens
+
+> #### [Улучшает подсветку синтаксического сахара из ES последних версий и расширений типа .jsx, .vue и т.п](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel):
+> Babel JavaScript
+
+> #### [Автоматические импорты](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport):
+> Auto Import
+
+> #### [Показывает название параметров внутри функций](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations):
+> JS Parameter Annotations
+
+> #### [Сниппеты для js/ts](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets):
+> JavaScript (ES6) code snippets
+
+> #### [Сниппеты для React/Redux/GraphQL/React-Native](https://marketplace.visualstudio.com/search?term=ES7%20React%2FRedux%2FGraphQL%2FReact-Native%20snippets&target=VSCode&category=All%20categories&sortBy=Relevance):
+> ES7 React/Redux/GraphQL/React-Native snippets
+
+> #### [Сниппеты для Vue](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets):
+> Vue 2 Snippets
+
+> #### [Сниппеты для Angular](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2):
+> Angular Snippets (Version 9)
+
+***
+
+### C/C++:
+
+> #### [Поддержка синтаксиса и компилятора](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools):
+> C/C++
+
+***
+
+### C#:
+
+> #### [Поддержка синтаксиса и компилятора](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp):
+> C#
+
+***
+
+### Golang:
+
+> #### [Поддержка синтаксиса и компилятора](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go):
+> Go
+
+***
+
+### SVG:
+
+> #### [Поддержка синтаксиса](https://marketplace.visualstudio.com/items?itemName=jock.svg):
+> SVG
+
+> #### [Кнопка в контекстном меню для просмотра SVG изображений прямо в редакторе](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer):
+> SVG Viewer
