@@ -12,11 +12,9 @@
 
 > #### [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru):
 > Russian Language Pack for Visual Studio Code
->
 
 > #### [Автозаполнение элементов кода на основе всех открытых редакторов](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete):
 > All Autocomplete
->
 
 > #### [Помощь с нахождением путей в файловой системе](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense):
 > Path Intellisense
@@ -34,7 +32,7 @@
 > #### [Показывает лишнии/неправильные пробелы и табы](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces):
 > Trailing Space
 >
-> Требуеться тщательная настройка для всех работников проекта. Конфликтует с другими IDE.
+> ***Требуеться тщательная настройка для всех работников проекта. Конфликтует с другими IDE.***
 
 > #### [Кнопка в контекстном меню "Открыть в браузере"](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser):
 > open in browser
@@ -72,7 +70,7 @@
 > #### [Поддержка в работе с тегами](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag):
 > Auto Complete Tag
 >
-> Auto Close Tag и Auto Rename Tag идут в комплекте
+> ***Auto Close Tag и Auto Rename Tag идут в комплекте***
 
 ***
 
