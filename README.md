@@ -1,6 +1,6 @@
 # Visual Studio Code - Руководство по плагинам
 
-![vscode](//img/vscode.png)
+![vscode](./img/vscode.png)
 
 ## Где скачать VS Code?
 
@@ -13,6 +13,10 @@
 > #### [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
 >
 > Russian Language Pack for Visual Studio Code
+
+> #### [Google Переводчик](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
+>
+> Vscode Google Translate
 
 > #### [Автозаполнение элементов кода на основе всех открытых редакторов](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete)
 >
@@ -56,9 +60,25 @@
 >
 > Markdownlint
 
+> #### [Cинтаксический помошник при работе с .env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+>
+> DotENV
+
 > #### [ctrl + ' или + ", быстро сменит тип кавычек](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)
 >
 > Toggle Quotes
+
+> #### [Удобный предпросмотр изображений](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+>
+> Image preview
+
+> #### [Делает красивые скрины кода](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+>
+> Polacode
+
+> #### [Синхронизация настроек и расширений](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+>
+> Settings Sync
 
 
 ***
@@ -81,7 +101,7 @@
 >
 > GitLens — Git supercharged
 
-> #### [Поддержка файла .gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+> #### [Cинтаксический помошник при работе с .gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 >
 > gitignore
 
@@ -99,6 +119,10 @@
 >
 > Highlight Matching Tag
 
+> #### [Автозавершение имен css классов](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
+>
+> IntelliSense for CSS Class Names in HTML
+
 ***
 
 ### CSS / SCCS / SASS
@@ -110,11 +134,6 @@
 > #### [Синтаксический помошник](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 >
 > stylelint
-
-> #### []():
->
-
-
 
 ***
 
@@ -128,9 +147,9 @@
 >
 > Version Lens
 
-> #### [Делает REST запрос по указанной вами строке](https://marketplace.visualstudio.com/items?itemName=Tino.simple-rest-client)
+> #### [Делает REST запрос по указанной вами строке](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 >
-> Simple REST Client
+> REST Client
 
 > #### [Улучшает подсветку синтаксического сахара из ES последних версий и расширений типа .jsx, .vue и т.п](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 >
@@ -148,7 +167,7 @@
 >
 > Debugger for Chrome
 
-> #### [Облегчение разработки на Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+> #### [Синтаксический помошник для Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 >
 > Vetur
 
