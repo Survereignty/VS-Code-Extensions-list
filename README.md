@@ -6,11 +6,16 @@
 
 * [ТУТ](https://code.visualstudio.com/)
 
+## Содержание
+
+* [Общие](#1)
+    * [Руссификатор](#1.1)
+
 ## Полный список лучших расширений
 
-### Общие
+### <a name="1">Общие</a>
 
-#### <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">Руссификатор</a>
+#### <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">* Руссификатор</a>
 
 > _Russian Language Pack for Visual Studio Code_
 
