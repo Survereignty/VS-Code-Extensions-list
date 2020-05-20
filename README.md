@@ -26,7 +26,7 @@
 
 #### <a name="1.2" href="https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate">- Google Переводчик</a>
 
-![ruslangpack](https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default)
+<img width="50px" height="50px" stc="https://funkyremi.gallerycdn.vsassets.io/extensions/funkyremi/vscode-google-translate/1.4.5/1589031868053/Microsoft.VisualStudio.Services.Icons.Default)">
 
 > _Vscode Google Translate_
 
