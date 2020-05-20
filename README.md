@@ -18,7 +18,7 @@
 
 #### <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">- Руссификатор</a>
 
-![ruslangpack](https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default)
+<img width="50px" height="50px" src="https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default">
 
 > _Russian Language Pack for Visual Studio Code_
 
