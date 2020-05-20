@@ -10,7 +10,7 @@
 
 ### Общие полезности:
 
-- [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru):
+> ### [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru):
 > Russian Language Pack for Visual Studio Code
 
 - [Автозаполнение элементов кода на основе всех открытых редакторов](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete):
@@ -47,9 +47,8 @@
 ### Внешний вид:
 
 - [Удобные, красивые и информативные иконки](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme):
-```
-Material Icon Theme
-```
+> Material Icon Theme
+
 - [Красивые темы](https://marketplace.visualstudio.com/search?term=Material%20Theme&target=VSCode&category=All%20categories&sortBy=Relevance):
 > Material Theme
 
