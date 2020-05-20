@@ -18,9 +18,20 @@
 >
 > Vscode Google Translate
 
+> #### [Проверка орфографии](https://marketplace.visualstudio.com/items?itemName=ACharLuk.easy-cpp-projects#overview)
+>
+> Code Spell Checker
+> Russian - Code Spell Checker
+>
+> ***Для работы потребуется в настройках расширения указать поддержку русского языка.***
+
 > #### [Автозаполнение элементов кода на основе всех открытых редакторов](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete)
 >
 > All Autocomplete
+
+> #### [Синтаксический помощник](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+>
+> Visual Studio IntelliCode
 
 > #### [Помощь с нахождением путей в файловой системе](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 >
@@ -38,29 +49,29 @@
 >
 > Bracket Pair Colorize 2
 
-> #### [Показывает лишнии/неправильные пробелы и табы](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+> #### [Показывает лишние/неправильные пробелы и табы](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 >
 > Trailing Space
 >
-> ***Требуеться тщательная настройка для всех работников проекта. Конфликтует с другими IDE.***
+> ***Требуется тщательная настройка для всех работников проекта. Конфликтует с другими IDE.***
 
 > #### [Кнопка в контекстном меню "Открыть в браузере"](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
 >
 > open in browser
 
-> #### [Подсветка для коментариев](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+> #### [Подсветка для комментарий](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 >
 > Better Comments
 
-> #### [Обмен файлом настроек Visual Studio всем, кто возмет ваш проект](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+> #### [Обмен файлом настроек Visual Studio всем, кто возьмет ваш проект](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 >
 > EditorConfig for VS Code
 
-> #### [Cинтаксический помошник при работе с .md](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+> #### [Синтаксический помощник при работе с .md](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 >
 > Markdownlint
 
-> #### [Cинтаксический помошник при работе с .env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+> #### [Синтаксический помощник при работе с .env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 >
 > DotENV
 
@@ -101,7 +112,7 @@
 >
 > GitLens — Git supercharged
 
-> #### [Cинтаксический помошник при работе с .gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+> #### [Синтаксический помощник при работе с .gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
 >
 > gitignore
 
@@ -131,7 +142,7 @@
 >
 > Live Sass Compiler
 
-> #### [Синтаксический помошник](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+> #### [Синтаксический помощник](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 >
 > stylelint
 
@@ -139,7 +150,7 @@
 
 ### JavaScript / TypeScript
 
-> #### [Быстрый запуск локального сервера с автообновлением страницы:](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+> #### [Быстрый запуск локального сервера с автообновлением страницы](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 >
 > Live Server
 
@@ -163,11 +174,11 @@
 >
 > JS Parameter Annotations
 
-> #### [Позволяет отлаживать код средсвами chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+> #### [Позволяет отлаживать код средствами chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 >
 > Debugger for Chrome
 
-> #### [Синтаксический помошник для Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+> #### [Синтаксический помощник для Vue](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 >
 > Vetur
 
@@ -194,6 +205,14 @@
 > #### [Поддержка синтаксиса и компилятора](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 >
 > C/C++
+
+> #### [Набор сниппетов](https://marketplace.visualstudio.com/items?itemName=hars.CppSnippets)
+>
+> C/C++ Snippets
+
+> #### [Генерирует новый проект с базовыми настройками](https://marketplace.visualstudio.com/items?itemName=ACharLuk.easy-cpp-projects#overview)
+>
+> Easy C++ projects
 
 ***
 
