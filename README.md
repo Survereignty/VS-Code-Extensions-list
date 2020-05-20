@@ -10,6 +10,12 @@
 
 ### Общие
 
+#### <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">Руссификатор</a>
+
+> _Russian Language Pack for Visual Studio Code_
+
+Полный руссификатор для vscode, но не поддерживает расширения.
+
 > #### [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
 >
 > Russian Language Pack for Visual Studio Code
@@ -21,6 +27,7 @@
 > #### [Проверка орфографии](https://marketplace.visualstudio.com/items?itemName=ACharLuk.easy-cpp-projects#overview)
 >
 > Code Spell Checker
+>
 > Russian - Code Spell Checker
 >
 > ***Для работы потребуется в настройках расширения указать поддержку русского языка.***
