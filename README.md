@@ -1,6 +1,6 @@
 # Visual Studio Code - Руководство по плагинам
 
-[vscode](./img/vscode.png)
+![vscode](./img/vscode.png)
 
 ## Где скачать VS Code?
 
@@ -15,7 +15,7 @@
 
 ### <a name="1">Общие</a>
 
-#### [ruslangpack](https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default) <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">* Руссификатор</a>
+#### ![ruslangpack](https://ms-ceintl.gallerycdn.vsassets.io/extensions/ms-ceintl/vscode-language-pack-ru/1.45.1/1588958744546/Microsoft.VisualStudio.Services.Icons.Default) <a name="1.1" href="https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru">* Руссификатор</a>
 
 > _Russian Language Pack for Visual Studio Code_
 
