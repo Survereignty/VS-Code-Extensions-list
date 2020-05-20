@@ -12,13 +12,15 @@
 
 > #### [Руссификатор](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru):
 > Russian Language Pack for Visual Studio Code
-
+>
 
 > #### [Автозаполнение элементов кода на основе всех открытых редакторов](https://marketplace.visualstudio.com/items?itemName=Atishay-Jain.All-Autocomplete):
 > All Autocomplete
+>
 
 > #### [Помощь с нахождением путей в файловой системе](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense):
 > Path Intellisense
+>
 
 > #### [Запускает выполнение фрагмента кода или целого файла](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner):
 > Code Runner
